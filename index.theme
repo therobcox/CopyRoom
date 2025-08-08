@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CopyRoom
+Comment=Gnome GTK Theme by RobCox
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CopyRoom
+GtkTheme=CopyRoom
+IconTheme=CopyRoom
+MetacityTheme=CopyRoom
