@@ -5,6 +5,8 @@ CopyRoom Theme by robcox
 
 # Description
 A professional light theme for gtk3/4 with ZorinOS 17 gnome-shell
+  Includes:
+    * gtk-2.0
 
 # Installation
 Right-click on file CopyRoom.tar.xz and select "Extract Here"
