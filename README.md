@@ -1,7 +1,7 @@
 # copyroom
 CopyRoom Theme by robcox
 
-<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/6827be7f-2a1d-41b5-8617-3a6f07e516fb" />
+<img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/978ea74d-0403-4507-8c56-dbd0b118cb35" />
 
 # Description
 A professional light theme for gtk3/4 with ZorinOS 17 gnome-shell
