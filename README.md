@@ -1,4 +1,4 @@
-# copyroom
+# CopyRoom
 CopyRoom Theme by robcox
 
 <img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/978ea74d-0403-4507-8c56-dbd0b118cb35" />
