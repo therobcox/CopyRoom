@@ -8,8 +8,6 @@ A professional light theme for Gnome with ZorinOS 17 gnome-shell
 
 Includes: gtk-2.0, gtk-3.0, gtk-3.20, gtk-4.0, metacity-1, openbox-3, unity, xfwm4
 
-<img width="1920" height="1080" alt="preview2" src="https://github.com/user-attachments/assets/da8aac81-fa68-4ade-85b1-85b46fe9544e" />
-
 # Installation
 Right-click on file CopyRoom.tar.xz and select "Extract Here"
 
