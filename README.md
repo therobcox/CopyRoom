@@ -13,6 +13,8 @@ CopyRoom is a Light only theme that overrides the Light/Dark Switcher for most a
 <img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/7e48bb3f-135d-40a1-ae22-20f343863ad5" />
 
 # Installation
+Download CopyRoom Theme here: <a href="https://www.pling.com/p/2310376/" target="_blank">https://www.pling.com/p/2310376/</a>
+
 Right-click on file CopyRoom.tar.xz and select "Extract Here"
 
 Copy/Paste new CopyRoom folder to location:
