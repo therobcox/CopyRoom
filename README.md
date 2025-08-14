@@ -29,5 +29,5 @@ Also,
 
 Please find included - Wallpapers folder
 
-CopyRoom Icon Theme here: <a href="https://github.com/therobcox/CopyRoom-Icons">https://github.com/therobcox/CopyRoom-Icons</a>
+CopyRoom Icons here: <a href="https://github.com/therobcox/CopyRoom-Icons">https://github.com/therobcox/CopyRoom-Icons</a>
 
